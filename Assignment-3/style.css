@@ -1,0 +1,74 @@
+
+
+body {
+    font-family: sans-serif;
+    width:980px; 
+    margin-left:auto;
+     margin-right:auto;
+    padding: 0;
+    background-color: #808080;
+    text-align: center;
+  }
+.job{
+  width:980px;
+  height: 120px;
+}
+  table, th, td ,tr {
+    border: 1px solid;
+    width: 50%;
+    border-collapse: collapse;
+    text-align: left;
+    height: 70px;
+    text-align: center;
+    
+  }
+  table {
+    top: 55px;
+    position: relative;
+    width: 100%;
+  }
+  .ver {
+    position: relative;
+    top: 29px;
+    left: -191px
+  }
+  img{
+    height: 150;
+    width: 200;
+
+  }
+  .canada{
+    top: 73px; 
+    position:relative; 
+    left: -38px;
+  }
+  .sep{
+    top: 59px;
+    position: relative;
+  }
+.top{
+  top: 48px;
+    position: relative;
+}
+.left{
+  left: -59px;
+    position: relative;
+    top: 83px;
+}
+.kon{
+  top: 117px;
+    left: -148px;
+    position: relative;
+}
+.home{
+  top: 151px;
+    left: -111px;
+    position: relative;
+}
+footer{
+  top: 150px;
+    position: relative;
+}
+
+
+
